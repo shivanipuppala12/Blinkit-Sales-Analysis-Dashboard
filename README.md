@@ -1,5 +1,4 @@
-An interactive Power BI dashboard designed to analyze Blinkit's sales performance, outlet distribution, and customer preferences.
-This project provides valuable insights into sales trends, outlet types, product categories, and customer ratings to help make data-driven business decisions.
+
 Description:
 Developed an interactive Power BI dashboard to analyze Blinkit's sales performance, outlet distribution, and product trends. The dashboard provides actionable insights into total sales, average sales, outlet size performance, item types, outlet locations, and customer ratings.
 
