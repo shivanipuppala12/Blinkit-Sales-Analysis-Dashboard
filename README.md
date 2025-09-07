@@ -25,5 +25,5 @@ Power BI, Data Modeling, DAX, Data Cleaning, Data Visualization
 Impact:
 Enabled management to monitor KPIs, identify high-performing outlets, and make data-driven decisions to optimize inventory, pricing, and customer targeting strategies.
 
+<img src="https://github.com/shivanipuppala12/Blinkit-Sales-Analysis-Dashboard/blob/7a08e97c14e1351852e81df70ce4b44a4b5e114d/Screenshot%202025-08-03%20121008.png" alt="Image Description" width="600">
 
-[!Dashboard image] https://github.com/shivanipuppala12/Blinkit-Sales-Analysis-Dashboard/blob/7a08e97c14e1351852e81df70ce4b44a4b5e114d/Screenshot%202025-08-03%20121008.png
